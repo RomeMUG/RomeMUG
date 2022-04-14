@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Con il nostro RomeMUG🌿(MongoDB User Group), miriamo a riunire le persone per imparare gli uni dagli altri e condividere il nostro interesse comune nelle tecnologie MongoDB. 
+
+Attraverso i nostri incontri mensili, vogliamo incoraggiare la collaborazione, il supporto e la condivisione delle conoscenze tra tutti i membri. 
+
+Che tu stia muovendo i primi passi o sia un professionista esperto, tutti sono i benvenuti. 
+Si prega di notare che gli eventi si svolgono solitamente in lingua Italiana.
+
 <!--
 **RomeMUG/RomeMUG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
